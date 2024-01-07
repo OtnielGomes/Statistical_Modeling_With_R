@@ -8,7 +8,7 @@ The objective of this project is to identify the reasons and factors that affect
 ## 🚀 Starting
 
 At the link below you can obtain a copy of the project:
-* [copy of the project](https://github.com/OtnielGomes/Statistics_with_R_Hypothesis_Testing/archive/refs/heads/main.zip)
+* [copy of the project](https://github.com/OtnielGomes/Statistical_Modeling_With_R/archive/refs/heads/main.zip)
 
 ## 🛠️ Built with:
 
@@ -17,13 +17,10 @@ At the link below you can obtain a copy of the project:
 * [R-Language](https://www.r-project.org/)
 ## 📦 Frameworks  
 
-* Dplyr
-* Glue
-* GGplot2
-* DescTools
+* Ecdat
 
 ## ⚙️ Running the code:
 
 ### Start with the Notebook:
-* [Statistics_with_R_Hypothesis_Testing](https://github.com/OtnielGomes/Statistics_with_R_Hypothesis_Testing/blob/main/Statistics_with_R_Hypothesis_Testing.ipynb)
+* [Statistical_Modeling_With_R](https://github.com/OtnielGomes/Statistical_Modeling_With_R/blob/main/Statistical_Modeling_With_R.ipynb)
 
